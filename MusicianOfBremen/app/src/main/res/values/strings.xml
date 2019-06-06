@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicianOfBremen</string>
+
+
+    <!--base layout 전용 시작-->
+    <string name="base_button_size">30dp</string>
+    <!--base layout 전용-->
+
+</resources>
